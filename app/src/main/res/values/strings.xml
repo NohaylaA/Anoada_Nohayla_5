@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Anoada_Nohayla_5</string>
+    <string name="bnv">Bienvenue</string>
+    <string name="bnvtxt">Voulez-vous prendre une photo ?</string>
+    <string name="button_name">Camera</string>
+    <string name="txtimg">Votre image</string>
+</resources>
